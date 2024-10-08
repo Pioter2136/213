@@ -1,0 +1,16 @@
+#div1 {
+    position left;
+    color: red;
+    float: left;
+}
+#div2 {
+    display: flex;
+    color: blue;
+    float: none;
+}
+#div3 {
+    position: right;
+    color: black;
+    float: right;
+    position: right;
+}
